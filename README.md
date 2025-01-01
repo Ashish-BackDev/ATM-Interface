@@ -22,7 +22,7 @@ This is a Python-based ATM system with a GUI created using Tkinter. It simulates
 - pyttsx3 (for text-to-speech functionality)
 - Pillow (for image processing)
 
-##How to Use
-1: Enter your 4-digit PIN to log in.
-2: Once logged in, you can check your balance, deposit money, withdraw money, transfer funds, and view transaction history.
-3: You can also change your PIN from the change pin.
+## How to Use
+- Enter your 4-digit PIN to log in.
+-  Once logged in, you can check your balance, deposit money, withdraw money, transfer funds, and view transaction history.
+-   You can also change your PIN from the change pin.
